@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller 构建产物（可重新生成）
+build/
+dist/
+*.spec
+
+# 压缩包 / 临时文件
+*.zip
+*.7z
+*.log
